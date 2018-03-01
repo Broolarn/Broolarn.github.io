@@ -1,0 +1,194 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Arvo"), url(https://themes.googleusercontent.com/static/fonts/arvo/v5/WJ6D195CfbTRlIs49IbkFw.woff) format("woff"); 
+}
+
+/* general styles */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+ /* needed for container min-height */
+}
+
+/* padded section */
+.pad-section {
+  padding: 100px 0;
+}
+.pad-section img {
+  width: 100%;
+}
+
+a {
+  color: #ffffff;
+}
+a:hover {
+  color: #333333;
+}
+
+.prize {
+  color: #cca300;
+}
+
+.categories {
+  color: #141414;
+}
+@media (min-width: 768px) {
+  .categories {
+    display: block;
+    padding-top: 2vh;
+  }
+}
+
+.programming {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #009900;
+  text-decoration-color: #009900;
+}
+
+.program {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #ffff00;
+  text-decoration-color: #ffff00;
+}
+
+.personal {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #e68a00;
+  text-decoration-color: #e68a00;
+}
+
+.technique {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #cc0099;
+  text-decoration-color: #cc0099;
+}
+
+.panel-slim {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* additional sections */
+#home {
+  
+  display: inherit;
+  text-align: center;
+  vertical-align: middle;
+  height: auto;
+  position: relative;
+  width: 100%;
+  overflow: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+#home .icons{
+  /*display: table-row;*/
+  padding: 5px;
+  line-height: 30px;
+  margin: auto;
+
+}
+#home a {
+  color: #303030;
+}
+#home a:hover{
+  color: #7e7e7e;
+}
+
+
+
+#sec3 .bcg{
+
+  background: #808080;
+  height: 130px;
+  text-align: center;
+}
+
+
+#portfolio {
+ 
+  display: inherit;
+  height: auto;
+  position: relative;
+  width: 100%;
+  overflow: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #ffffff;
+}
+#portfolio .panel-body {
+  background-color: #808080;
+  color: #ffffff;
+}
+#portfolio h2, #portfolio h3, #portfolio h4, #portfolio h5 {
+  color: #141414;
+}
+
+#portfolio p{
+  color: #ffffff;
+}
+
+
+#portfoliohtml .panel-body {
+  background-color: #808080;
+  color: #ffffff;
+}
+#portfoliohtml h2, #portfoliohtml h3, #portfoliohtml h4, #portfoliohtml h5 {
+  color: #ffffff;
+}
+#portfoliohtml  a {
+  color: #ffffff;
+}
+#portfoliohtml a:hover {
+  color: #ffffff;
+}
+
+#sec5 .bcg{
+ 
+  background: #480000;
+  height: 130px;
+  text-align: center;
+} 
+
+
+
+#contact {
+  background: url(../img/bg_pic-4-1200.jpg) no-repeat center center fixed; 
+  display: inherit;
+  height: 90%;
+  position: relative;
+  width: 100%;
+  overflow: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #FFAA70;
+  color: #ffffff;
+}
+#contact .panel-body {
+  background-color: #00376E;
+  color: #ffffff;
+}
+#contact h2, #contact h4 {
+  color: #ffffff;
+}
+
+footer {
+  padding: 20px 0;
+}
+
+
+

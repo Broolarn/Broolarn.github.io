@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta keywords="Julius Kördel">
+  <meta name="description" content="Julius Kördel">
+
+  <title>Julius Kördel</title>
+  <!--<link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16">-->
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+
+
+// Angular functions
+<script>
+var myApp = angular.module('myApp', []);
+<!--broolarn.github.io/portfolio.php    Broolarn.github.io/portfolio.php-->
+myApp.controller('portfolio', function($scope, $http) {
+    $http({ method: 'GET', url: 'https://Broolarn.github.io/portfolio.php'})
+    .then(function successCallback(response){ 
+    	console.log(response.data); 
+    	$scope.project = response.data.records; }, 
+    	function errorCallback(response){ 
+    		console.log(response); });
+});
+
+
+
+myApp.filter('rawHtml', ['$sce', function($sce){
+  return function(val) {
+    return $sce.trustAsHtml(val);
+  };
+}]);
+  </script>
+</head>
+
+<body ng-app="myApp">
+<!--
+  <!-- Navigation panel -->
+  <nav class="navbar navbar-default navbar-fixed-top" id="bs-js-navbar-scrollspy">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false" aria-controls="navbar">
+            <i class="sr-only">Toggle navigation</i>
+            <i class="icon-bar"></i>
+            <i class="icon-bar"></i>
+            <i class="icon-bar"></i>
+          </button>
+        <a class="navbar-brand" href="#home">Julius Kördel</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+-->
+  <!-- Section 1 - home -->
+  <div id="home" class="home">
+    <div class="container">
+      <!-- Section 1.5 - Jumbotron -->
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-md-3">
+       
+          </div>
+          <div class="col-md-6">
+            <h1>Julius Kördel</h1>
+            <h4>I am a young lad that is currently studding my 3rde year at Linköpings Universitet for civil enginer in Medieteknik. 
+                  I love having side projects exploring new techniques/tools to create something that i find interesting.</h4>
+          </div>
+          <div class="col-md-3">
+            
+          </div>
+        </div>
+      </div>
+
+    
+    </div>
+  </div>
+
+
+
+  <!-- Section 4 - Portfolio -->
+  <div id="portfolio" class="pad-section" ng-controller="portfolio">
+    <div class="container">
+      <h2 class="text-center"> Projects</h2>
+
+      <!-- Default Angular Portfolio-->
+      <div class="panel panel-default" ng-repeat="x in project | filter:{show:true}">
+        <div class="panel-body">
+          <div class="row text-center">
+            <div class="col-sm-8">
+              <h3>{{ x.title }}</h3>
+            </div>
+            <div class="col-sm-4">
+              <h4><span class="categories">{{ x.category }}</span></h4>
+            </div>
+          </div>
+          <div class="row text-center">
+            <div class="col-sm-8">
+              <p ng-bind-html="x.description | rawHtml"></p><br>
+              <h5>Tools used:</h5>
+              <p ng-bind-html="x.skills | rawHtml"></p>
+            </div>
+            <div class="col-sm-4">
+              <h4>{{ x.duration }}</h4>
+              <p ng-bind-html="x.links | rawHtml"></p>
+              <span ng-bind-html="x.video | rawHtml"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!--
+      <div class="panel panel-default">
+        <div class="panel-body panel-slim">
+          <div class="row text-center">
+            <div class="col-sm-12">
+              <a href="html/portfolio.html" class="btn btn-block">See more finished projects</a>
+            </div>
+          </div>
+        </div>
+      </div>
+-->
+    </div>
+  </div>
