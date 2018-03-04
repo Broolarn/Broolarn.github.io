@@ -18,7 +18,7 @@
     "skills": "<span class='programming'>Blueprints</span>, <span class='technique'>Grafics</span>, <span class='programming'>Unreal Engine</span>, <span class='technique'>Modeling</span>, <span class='programming'>Textures</span>",
     "category": "Unreal, Computer graphics",
     "duration": "Spring 2017", 
-    "links": "<a href='testpdf.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='testpdf.pdf' target='_blank'>Project report (English)</a><br><br>", 
     "video": "<img class='img-rounded' src='../bilder/walkingsimbild.png' alt='Screenshot from Walking sim.' />",
     "show": "true"
   },
