@@ -7,7 +7,7 @@
     "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
     "category": "Voice changer",
     "duration": "Autumn 2017", 
-    "links": "<a href='Grupp 13 .pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/batappbild.jpg' alt='Screenshot from batapp.' />",
     "show": "true"
   },
@@ -18,7 +18,7 @@
     "skills": "<span class='programming'>Blueprints</span>, <span class='technique'>Grafics</span>, <span class='programming'>Unreal Engine</span>, <span class='technique'>Modeling</span>, <span class='programming'>Textures</span>",
     "category": "Unreal, Computer graphics",
     "duration": "Spring 2017", 
-    "links": "<a href='WalkingSim.pdf' target='_blank'>Project report (Swedish)</a><br><br>", 
+    "links": "<a href='../lankar/WalkingSim.pdf' target='_blank'>Project report (Swedish)</a><br><br>", 
     "video": "<img class='img-rounded' src='../bilder/walkingsimbild.png' alt='Screenshot from Walking sim.' />",
     "show": "true"
   },
