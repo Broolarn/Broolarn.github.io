@@ -44,7 +44,7 @@
     "category": "Phaser game",
     "duration": "Autumn 2017", 
     "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/SpaceRocks.mp4' alt='Screenshot from SpaceRockGame.' />",
+    "video": "<img class='img-rounded' src='../bilder/SpaceRocks.gif' alt='Screenshot from SpaceRockGame.' />",
     "show": "true"
   },
  {
@@ -54,7 +54,7 @@
     "category": "Tiled map",
     "duration": "Spring 2018", 
     "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/TiledMapGame.mp4' alt='Screenshot from TiledMapGame.' />",
+    "video": "<img class='img-rounded' src='../bilder/TiledMapGame.gif' alt='Screenshot from TiledMapGame.' />",
     "show": "true"
   },
  {
