@@ -60,8 +60,8 @@
  {
     "title":"PythonProject",
     "description": "<p> I have used python with modelling before. It was a language that was easy to write in. I had also finished my tiled map game so i got the idea to try to implement the same method in a python using different tutorials to better understand classes and functions in python(this project is in progress). </p>",
-    "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
-    "category": "Voice changer",
+    "skills": "<span class='programming'>Python</span>",
+    "category": "Python Project",
     "duration": "Spring 2018", 
     "links": "<br><br>", 
     "video": "",
