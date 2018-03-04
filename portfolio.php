@@ -31,7 +31,7 @@
     "skills": "<span class='programming'>JavaScript</span>, <span class='technique'>Game programming</span>,   <span class='programming'>Phaser</span>",
     "category": "Game,Phaser",
     "duration": "Autumn 2016", 
-    "links": "<a href='.../lankar/ProjektRapportgruppswiper.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/ProjektRapportgruppswiper.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/GIFgameover.gif' alt='Gameplay'  height='300'/>",
     "show": "true"
   
