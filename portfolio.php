@@ -1,38 +1,7 @@
 {
 "records": [
-   {
-    "title":"SpaceRockGame",
-    "description": "<p> I wanted to recreate a game i played alot as a child with a player that avoids spacerocks and can fire a lazer at them. If the lazer hits it results with more rocks spawning. </p>",
-    "skills": "<span class='programming'>Phaser</span>, <span class='programming'>Javascript</span>",
-    "category": "Phaser game",
-    "duration": "Autumn 2017", 
-    "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/SpaceRocks.gif' alt='Screenshot from SpaceRockGame.' />",
-    "show": "true"
-  },
+ 
  {
-    "title":"TiledMapGame",
-    "description": "<p> Tiledmap keept commming into my youtube flow when I was looking for collision methods for a 2d game.It seemed intressting and useful if i would understand it and therefor i tryed to use a Tiled map with a familiar api, Phaser.  </p>",
-    "skills": "<span class='programming'>Collision</span>, <span class='technique'>Tiled Map</span>, <span class='programming'>Javascript</span>",
-    "category": "Tiled map",
-    "duration": "Spring 2018", 
-    "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/TiledMapGame.gif' alt='Screenshot from TiledMapGame.' />",
-    "show": "true"
-  },
- {
-    "title":"PythonProject",
-    "description": "<p> I have used python with modelling before. It was a language that was easy to write in. I had also finished my tiled map game so i got the idea to try to implement the same method in a python using different tutorials to better understand classes and functions in python(this project is in progress). </p>",
-    "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
-    "category": "Voice changer",
-    "duration": "Spring 2018", 
-    "links": "<br><br>", 
-    "video": "<img class='img-rounded' src='../bilder/batappbild.jpg' alt='Screenshot from PythonProject.' />",
-    "show": "true"
-  },
-
-
-  {
     "title":"BatApp",
     "description": "<p> Managed to create a none destructing voice changer that uses smart sampling method to change pitch of voice to sound as batman. The app is still very fast but not a realtime application if not backed up by good hardware. </p>",
     "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
@@ -53,8 +22,8 @@
     "video": "<img class='img-rounded' src='../bilder/walkingsimbild.png' alt='Screenshot from Walking sim.' />",
     "show": "true"
   },
-  
-  {
+
+{
 
  
     "title":"Swiper", 
@@ -66,5 +35,36 @@
     "video": "<img class='img-rounded' src='../bilder/GIFgameover.gif' alt='Gameplay'  height='300'/>",
     "show": "true"
   
+  } , 
+
+{
+    "title":"SpaceRockGame",
+    "description": "<p> I wanted to recreate a game i played alot as a child with a player that avoids spacerocks and can fire a lazer at them. If the lazer hits it results with more rocks spawning. </p>",
+    "skills": "<span class='programming'>Phaser</span>, <span class='programming'>Javascript</span>",
+    "category": "Phaser game",
+    "duration": "Autumn 2017", 
+    "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "video": "<img class='img-rounded' src='../bilder/SpaceRocks.mp4' alt='Screenshot from SpaceRockGame.' />",
+    "show": "true"
+  },
+ {
+    "title":"TiledMapGame",
+    "description": "<p> Tiledmap keept commming into my youtube flow when I was looking for collision methods for a 2d game.It seemed intressting and useful if i would understand it and therefor i tryed to use a Tiled map with a familiar api, Phaser.  </p>",
+    "skills": "<span class='programming'>Collision</span>, <span class='technique'>Tiled Map</span>, <span class='programming'>Javascript</span>",
+    "category": "Tiled map",
+    "duration": "Spring 2018", 
+    "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "video": "<img class='img-rounded' src='../bilder/TiledMapGame.mp4' alt='Screenshot from TiledMapGame.' />",
+    "show": "true"
+  },
+ {
+    "title":"PythonProject",
+    "description": "<p> I have used python with modelling before. It was a language that was easy to write in. I had also finished my tiled map game so i got the idea to try to implement the same method in a python using different tutorials to better understand classes and functions in python(this project is in progress). </p>",
+    "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
+    "category": "Voice changer",
+    "duration": "Spring 2018", 
+    "links": "<br><br>", 
+    "video": "",
+    "show": "true"
   }]
 }
