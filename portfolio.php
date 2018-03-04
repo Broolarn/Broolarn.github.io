@@ -8,7 +8,7 @@
     "category": "Voice changer",
     "duration": "Autumn 2017", 
     "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/batappbild.jpg' alt='Screenshot from batapp.' />",
+    "video": "<img class='img-rounded' src='../bilder/batappbild.png' alt='Screenshot from batapp.' />",
     "show": "true"
   },
 
