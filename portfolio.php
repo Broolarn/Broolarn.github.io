@@ -5,7 +5,7 @@
 {
     "title":"ProgMapVis",
     "description": "<p> Sometimes it's hard to describe what my education has covered so far so tryed to visualize it. </p>",
-    "skills": "<span class='programming'>Visualization</span>, <span class='technique'>Visualization </span>, <span class='programming'>Python</span>",
+    "skills": "<span class='programming'>Visualization</span>, <span class='technique'>gspread </span>, <span class='programming'>Python</span>",
     "category": "Visualization",
     "duration": "Spring 2018", 
     "links": "", 
