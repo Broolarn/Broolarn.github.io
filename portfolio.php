@@ -2,16 +2,7 @@
 "records": [
  
 
-{
-    "title":"ProgMapVis",
-    "description": "<p> Sometimes it's hard to describe what my education has covered so far so tryed to visualize it. </p>",
-    "skills": "<span class='programming'>Visualization</span>, <span class='technique'>gspread </span>, <span class='programming'>Python</span>",
-    "category": "Visualization",
-    "duration": "Spring 2018", 
-    "links": "", 
-    "video": "<img class='img-rounded' src='../bilder/vis.png' alt='Visualization of projects/year.' />",
-    "show": "true"
-  },
+
  {
     "title":"BatApp",
     "description": "<p> Managed to create a none destructing voice changer that uses smart sampling method to change pitch of voice to sound as batman. The app is still very fast but not a realtime application if not backed up by good hardware. </p>",
