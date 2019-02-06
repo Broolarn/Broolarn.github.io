@@ -2,6 +2,16 @@
 "records": [
  
 
+ {
+    "title":"OMR",
+    "description": "<p> Image processing is something central in my education and during one course the task was to read notesheets and return a string.  </p>",
+    "skills": "<span class='programming'>Image processing, Image analysis</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
+    "category": "Image processing",
+    "duration": "Autumn 2018", 
+    "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "video": "<img class='img-rounded' src='../bilder/OMR.png' alt='Screenshot from OMR.' />",
+    "show": "true"
+  },
 
  {
     "title":"BatApp",
@@ -9,7 +19,7 @@
     "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
     "category": "Voice changer",
     "duration": "Autumn 2017", 
-    "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/Optical-Music-Recognition.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/batappbild.png' alt='Screenshot from batapp.' />",
     "show": "true"
   },
