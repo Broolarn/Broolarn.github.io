@@ -8,7 +8,7 @@
     "skills": "<span class='programming'>Image processing, Image analysis</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
     "category": "Image processing",
     "duration": "Autumn 2018", 
-    "links": "<a href='../lankar/Optical-Music-Recognition.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/Optical-Music-Recognition.pdf' target='_blank'>Project report </a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/OMR.png' alt='Screenshot from OMR.' />",
     "show": "true"
   },
