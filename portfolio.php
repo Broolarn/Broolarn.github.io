@@ -8,18 +8,39 @@
     "skills": "<span class='programming'>Image processing, Image analysis</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
     "category": "Image processing",
     "duration": "Autumn 2018", 
-    "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/Optical-Music-Recognition.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/OMR.png' alt='Screenshot from OMR.' />",
     "show": "true"
   },
 
+ {
+    "title":"Animal Approach",
+    "description": "<p> School project done in bachelor degree. This is a social AR game that the players use of their phone to see a playfield that contains object that interferes with their vision so they have to move around the playfield placed on a table creating intresting interactions. For game trailer send me a message. </p>",
+    "skills": "<span class='programming'>AR, Game, Vuforia, Mobile</span>, <span class='technique'>AR</span>, <span class='programming'>Unity</span>",
+    "category": "AR",
+    "duration": "Spring 2018", 
+    "links": "<a href='../lankar/TNM094-2018-A_Animal_Approach.pdf' target='_blank'>Project report (Swedish)</a><br>", 
+    "video": "<img class='img-rounded' src='../bilder/ANIMALAPPROACHDEMO.png' alt='Screenshot from Animal Approach.' />",
+    "show": "true"
+  },
+
+   {
+    "title":"Simulation of a twirl ",
+    "description": "<p> Schoolproject where goals was to simulate the path and rotation of the kids toy caleld BeyBlade. This project started as a simple model for roation and later elements where added for simulate the path the toy would travel in a halfsphere. </p>",
+    "skills": "<span class='programming'>Modeling and simulation</span>, <span class='technique'>Modeling and simulation</span>, <span class='programming'>Matlab , c++,c#</span>",
+    "category": "Simulation of a twirl",
+    "duration": "Spring 2018", 
+    "links": "<a href='../lankar/Simulering_av_en_snurra.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "video": "<img class='img-rounded' src='../bilder/Blade.gif' alt='Screenshot from simulation.' />",
+    "show": "true"
+  },
  {
     "title":"BatApp",
     "description": "<p> Managed to create a none destructing voice changer that uses smart sampling method to change pitch of voice to sound as batman. The app is still very fast but not a realtime application if not backed up by good hardware. </p>",
     "skills": "<span class='programming'>Voice changer</span>, <span class='technique'>Grafics</span>, <span class='programming'>Matlab</span>",
     "category": "Voice changer",
     "duration": "Autumn 2017", 
-    "links": "<a href='../lankar/Optical-Music-Recognition.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/Grupp13.pdf' target='_blank'>Project report (English)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/batappbild.png' alt='Screenshot from batapp.' />",
     "show": "true"
   },
