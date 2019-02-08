@@ -27,7 +27,7 @@
    {
     "title":"Simulation of a twirl ",
     "description": "<p> Schoolproject where goals was to simulate the path and rotation of the kids toy caleld BeyBlade. This project started as a simple model for roation and later elements where added for simulate the path the toy would travel in a halfsphere. </p>",
-    "skills": "<span class='programming'>Modeling and simulation</span>, <span class='technique'>Modeling and simulation</span>, <span class='programming'>Matlab , c++,c#</span>",
+    "skills": "<span class='programming'>Graphics</span>, <span class='technique'>Modeling and simulation</span>, <span class='programming'>Matlab , c++,c#</span>",
     "category": "Modeling and Simulation",
     "duration": "Spring 2018", 
     "links": "<a href='../lankar/Simulering_av_en_snurra.pdf' target='_blank'>Project report (Swedish)</a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
