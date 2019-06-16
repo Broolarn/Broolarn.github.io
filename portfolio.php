@@ -6,7 +6,7 @@
     "skills": "<span class='programming'>Full stack web programming</span>,
     "category": "Web programming",
     "duration": "Spring 2019", 
-    "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
+    "links": "<a href='../lankar/InfoVizreport.pdf' target='_blank'>Project report </a><br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
     "video": "<img class='img-rounded' src='../bilder/spritvis.png' alt='Screenshot from spritvis.' />",
     "show": "true"
   },
