@@ -3,7 +3,7 @@
   {
     "title":"Korren",
     "description": "<p> A shared board page app with purpose to replace paper based cleaning schedules for corridors, but can be used for any context where a rotating schedule is needed. </p>",
-    "skills": "<span class='programming'>Info visualization</span>, <span class='technique'>Color coding</span>, <span class='programming'>Javascript</span>",
+    "skills": "<span class='programming'>Angular</span>, <span class='technique'>Mongodb</span>, <span class='programming'>Nodejs</span>",
     "category": "Web programming",
     "duration": "Spring 2019", 
     "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
