@@ -7,7 +7,7 @@
     "category": "Web programming",
     "duration": "Spring 2019", 
     "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>",
+    "video": "<img class='img-rounded' src='../bilder/spritvis.png' alt='Screenshot from spritvis.' />",
     "show": "true"
   },
     
