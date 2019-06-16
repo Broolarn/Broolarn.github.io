@@ -7,7 +7,7 @@
     "category": "Visualization",
     "duration": "Spring 2019", 
     "links": "<br><a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='../bilder/spritvis.png' alt='Screenshot from spritvis.' />",
+    "video": "<iframe width="320" height="210" src="https://youtu.be/_WNyfTFBCqI"></iframe>",
     "show": "true"
   },
     
