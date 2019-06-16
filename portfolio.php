@@ -1,8 +1,8 @@
 {
 "records": [
   {
-     "title":"Korren",
-    "description": "<p> A shared board page app with purpose to replace paper based cleaning schedules for corridors, but can be used for any context where a rotating schedule is needed.  </p>",
+    "title":"Spritvis",
+    "description": "<p> Systembolaget does regulary publish documents and graphs about their data. We created a tool for people to themself explore and examine their data.  </p>",
     "skills": "<span class='programming'>Info visualization</span>, <span class='technique'>Color coding</span>, <span class='programming'>Javascript</span>",
     "category": "Visualization",
     "duration": "Spring 2019", 
