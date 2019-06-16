@@ -7,7 +7,7 @@
     "category": "Web programming",
     "duration": "Spring 2019", 
     "links": "<a href='https://github.com/Broolarn' target='_blank'>Source code</a><br>", 
-    "video": "<img class='img-rounded' src='https://youtu.be/_WNyfTFBCqI' alt='Screencast of project.' />",
+    "video": "<iframe width="420" height="315" src='https://youtu.be/_WNyfTFBCqI' alt='Screencast of project.'></iframe>",
     "show": "true"
   },
     
