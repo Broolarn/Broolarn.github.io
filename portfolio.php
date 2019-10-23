@@ -6,7 +6,7 @@
     "skills": "<span class='programming'>AI</span>, <span class='technique'>Neural Network</span>, <span class='technique'>Genetic algorithm</span>",
     "category": "AI",
     "duration": "Autumn 2019", 
-    "links": "<a href='../lankar/PredatorAndPreyAI.pdf' target='_blank'>Project report </a>, 
+    "links": "<a href='../lankar/PredatorAndPreyAI.pdf' target='_blank'>Project report </a>", 
     "video": "<img class='img-rounded' src='../bilder/PredatorAndPreyAI.png' alt='Screenshot from PredatorAndPreyAI.' />",
     "show": "true"
   },
