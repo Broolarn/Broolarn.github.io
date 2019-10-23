@@ -1,6 +1,16 @@
 {
 "records": [
   {
+   "title":"Prey seeking AI",
+    "description": "<p>It was finally time to tackle an AI project. The project resulted in an AI that consists of a neural network and then it learns its environment with the help of a genetic algorithm.  </p>",
+    "skills": "<span class='programming'>AI</span>, <span class='technique'>Neural netowrk</span>, <span class='technique'>Genetic algorithm</span>",
+    "category": "AI",
+    "duration": "Autumn 2019", 
+    "links": "<a href='../lankar/PredatorAndPreyAI.pdf' target='_blank'>Project report </a><br>, 
+    "video": "<img class='img-rounded' src='../bilder/PredatorAndPreyAI.png' alt='Screenshot from PredatorAndPreyAI.' />",
+    "show": "true"
+  },
+  {
     "title":"Korren",
     "description": "<p> A shared board page app with purpose to replace paper based cleaning schedules for corridors, but can be used for any context where a rotating schedule is needed. </p>",
     "skills": "<span class='programming'>Angular</span>, <span class='technique'>Mongodb</span>, <span class='programming'>Nodejs</span>",
