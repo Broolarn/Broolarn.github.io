@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "//broolarn.github.io/portfolio/static/js/main.660d33a3.chunk.js",
+    "main.js.map": "//broolarn.github.io/portfolio/static/js/main.660d33a3.chunk.js.map",
+    "runtime-main.js": "//broolarn.github.io/portfolio/static/js/runtime-main.bf10f67a.js",
+    "runtime-main.js.map": "//broolarn.github.io/portfolio/static/js/runtime-main.bf10f67a.js.map",
+    "static/js/2.bcf9eea4.chunk.js": "//broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js",
+    "static/js/2.bcf9eea4.chunk.js.map": "//broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js.map",
+    "index.html": "//broolarn.github.io/portfolio/index.html",
+    "precache-manifest.38b0064e5b7e0a41ef671133c1c9ed37.js": "//broolarn.github.io/portfolio/precache-manifest.38b0064e5b7e0a41ef671133c1c9ed37.js",
+    "service-worker.js": "//broolarn.github.io/portfolio/service-worker.js",
+    "static/js/2.bcf9eea4.chunk.js.LICENSE.txt": "//broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js.LICENSE.txt",
+    "static/media/Julius.jpg": "//broolarn.github.io/portfolio/static/media/Julius.158efc03.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf10f67a.js",
+    "static/js/2.bcf9eea4.chunk.js",
+    "static/js/main.660d33a3.chunk.js"
+  ]
+}
