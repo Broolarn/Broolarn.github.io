@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Broolarn.github.io/portfolio/static/js/main.f619692f.chunk.js",
-    "main.js.map": "/Broolarn.github.io/portfolio/static/js/main.f619692f.chunk.js.map",
-    "runtime-main.js": "/Broolarn.github.io/portfolio/static/js/runtime-main.2adc6335.js",
-    "runtime-main.js.map": "/Broolarn.github.io/portfolio/static/js/runtime-main.2adc6335.js.map",
-    "static/js/2.bcf9eea4.chunk.js": "/Broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js",
-    "static/js/2.bcf9eea4.chunk.js.map": "/Broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js.map",
-    "index.html": "/Broolarn.github.io/portfolio/index.html",
-    "precache-manifest.9b65bd25b50d69def52d52cba08c96a3.js": "/Broolarn.github.io/portfolio/precache-manifest.9b65bd25b50d69def52d52cba08c96a3.js",
-    "service-worker.js": "/Broolarn.github.io/portfolio/service-worker.js",
-    "static/js/2.bcf9eea4.chunk.js.LICENSE.txt": "/Broolarn.github.io/portfolio/static/js/2.bcf9eea4.chunk.js.LICENSE.txt",
-    "static/media/Julius.jpg": "/Broolarn.github.io/portfolio/static/media/Julius.158efc03.jpg"
+    "main.js": "/Broolarn.github.io/static/js/main.c9362e40.chunk.js",
+    "main.js.map": "/Broolarn.github.io/static/js/main.c9362e40.chunk.js.map",
+    "runtime-main.js": "/Broolarn.github.io/static/js/runtime-main.44ef8ac6.js",
+    "runtime-main.js.map": "/Broolarn.github.io/static/js/runtime-main.44ef8ac6.js.map",
+    "static/js/2.bcf9eea4.chunk.js": "/Broolarn.github.io/static/js/2.bcf9eea4.chunk.js",
+    "static/js/2.bcf9eea4.chunk.js.map": "/Broolarn.github.io/static/js/2.bcf9eea4.chunk.js.map",
+    "index.html": "/Broolarn.github.io/index.html",
+    "precache-manifest.c3e5bd7d398a41aa297ff716f23ec5e5.js": "/Broolarn.github.io/precache-manifest.c3e5bd7d398a41aa297ff716f23ec5e5.js",
+    "service-worker.js": "/Broolarn.github.io/service-worker.js",
+    "static/js/2.bcf9eea4.chunk.js.LICENSE.txt": "/Broolarn.github.io/static/js/2.bcf9eea4.chunk.js.LICENSE.txt",
+    "static/media/Julius.jpg": "/Broolarn.github.io/static/media/Julius.158efc03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2adc6335.js",
+    "static/js/runtime-main.44ef8ac6.js",
     "static/js/2.bcf9eea4.chunk.js",
-    "static/js/main.f619692f.chunk.js"
+    "static/js/main.c9362e40.chunk.js"
   ]
 }
